@@ -1,0 +1,1 @@
+git remote add "name" <url_of_github_repo>   (typically "name" is origin)
